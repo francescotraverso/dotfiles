@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = francesco_traverso@outlook.com
+	name = francesco traverso
